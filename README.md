@@ -1,6 +1,6 @@
 # Weather Profiteering Application
 
-This is an application that analyzes daily weather patterns during 2019 in the transit hubs of Atlanta, GA, Chicago, IL, Seattle, WA and Dallas, TX to determine any correlations between significant weather events and stock prices of Alaska Airlines, United Airlines, Delta Air Lines, American Air Lines and then use those correlations to predict future stocks price movements based upon weather forecasts written in python.
+This is an application that analyzes daily weather patterns during 2019 in the transit hubs of Atlanta, GA, Chicago, IL, Seattle, WA and Dallas, TX to determine any correlations between significant weather events and stock prices of Alaska Airlines, United Airlines, Delta Air Lines, American Air Lines written in Python. Based upon the results of our analysis there are no material correlations between weather events and stock prices.
 
 ---
 
@@ -11,6 +11,8 @@ This project leverages python 3.7 with the following packages:
 * [Pandas] (https://github.com/pandas-dev/pandas) - For data analysis
 
 * [HvPlot] (https://github.com/holoviz/hvplot) - For visualization (charts and graphs) of the data
+
+* [Seaborn] (https://seaborn.pydata.org/) - For visualization (charts and graphs) of the data
 
 * [Alpaca] (https://github.com/alpacahq/alpaca-trade-api-python) - Source for data stock
 
@@ -26,6 +28,7 @@ Before running the application first install the following dependencies:
   pip install pandas
   pip install numpy
   pip install requests
+  pip install seaborn
   pip install hvplot
   pip3 install alpaca-trade-api
 ```
@@ -34,9 +37,7 @@ Before running the application first install the following dependencies:
 
 ## Usage 
 
-To use the clothes picker application simply clone the repository and .......
-
-Upon launching the Weather Profiteering Application you will be greeted with the following prompts.Upon launching the clothes picker you will be greeted with the following prompts.
+To use the Weather Profiteering application simply run the "main.ipynb" file in the terminal. 
 
 ---
 
@@ -48,7 +49,7 @@ Brought to you by Virginia Murage, Jon Mitchell, Chandler Schaak and Sam Lawhead
 
 ## License
 
-Copyright <2022>
+Copyright 2022
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
