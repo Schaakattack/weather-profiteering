@@ -1,6 +1,10 @@
 # Weather Profiteering Application
 
-This is an application that analyzes daily weather patterns during 2019 in the transit hubs of Atlanta, GA, Chicago, IL, Seattle, WA and Dallas, TX to determine any correlations between significant weather events and stock prices of Alaska Airlines, United Airlines, Delta Air Lines, American Air Lines written in Python. Based upon the results of our analysis there are no material correlations between weather events and stock prices.
+This is an application that analyzes daily weather patterns during 2019 in the transit hubs of Atlanta, GA, Chicago, IL, Seattle, WA and Dallas, TX to determine any correlations between significant weather events and stock prices of Alaska Airlines, United Airlines, Delta Air Lines, American Air Lines written in Python. The application pairs each airline to a city and analyzes results of how the city's weather may have affected the airline's stock prices. The pairing is a s follows; Alaska Airline-Seattle, WA,
+American Airline-Dallas, Tx,
+United Airline-Chicago,IL, and
+Delta Airline-Atlanta,GA.
+Based upon the results of our analysis there are no material correlations between weather events and stock prices.
 
 ---
 
@@ -37,9 +41,19 @@ Before running the application first install the following dependencies:
 
 ## Usage 
 
-To use the Weather Profiteering application simply run the "main.ipynb" file in the terminal. The images below are snippets of proving our results.
+To use the Weather Profiteering application simply run the "main.ipynb" file in the terminal. The images below are some screenshots proving our results.
 
+<img src="https://github.com/Schaakattack/weather-profiteering/blob/main/Images/Image1.PNG" width=500 height=300>
 
+<img src="https://github.com/Schaakattack/weather-profiteering/blob/main/Images/Image2.PNG" width=500 height=300>
+
+<img src="https://github.com/Schaakattack/weather-profiteering/blob/main/Images/Image3.PNG" width=500 height=300>
+
+<img src="https://github.com/Schaakattack/weather-profiteering/blob/main/Images/Image4.PNG" width=500 height=300>
+
+<img src="https://github.com/Schaakattack/weather-profiteering/blob/main/Images/Image7.PNG" width=500 height=300>
+
+<img src="https://github.com/Schaakattack/weather-profiteering/blob/main/Images/Image8.PNG" width=500 height=300>
 ---
 
 ## Contributors
