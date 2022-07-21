@@ -37,7 +37,8 @@ Before running the application first install the following dependencies:
 
 ## Usage 
 
-To use the Weather Profiteering application simply run the "main.ipynb" file in the terminal. 
+To use the Weather Profiteering application simply run the "main.ipynb" file in the terminal. The images below are snippets of proving our results.
+
 
 ---
 
