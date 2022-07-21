@@ -39,8 +39,17 @@ Before running the application first install the following dependencies:
 
 To use the Weather Profiteering application simply run the "main.ipynb" file in the terminal. The images below are some screenshots proving our results.
 
+<img src="https://github.com/Schaakattack/weather-profiteering/blob/main/Images/Image1.PNG" width=500 height=300>
 
+<img src="https://github.com/Schaakattack/weather-profiteering/blob/main/Images/Image2.PNG" width=500 height=300>
 
+<img src="https://github.com/Schaakattack/weather-profiteering/blob/main/Images/Image3.PNG" width=500 height=300>
+
+<img src="https://github.com/Schaakattack/weather-profiteering/blob/main/Images/Image4.PNG" width=500 height=300>
+
+<img src="https://github.com/Schaakattack/weather-profiteering/blob/main/Images/Image7.PNG" width=500 height=300>
+
+<img src="https://github.com/Schaakattack/weather-profiteering/blob/main/Images/Image8.PNG" width=500 height=300>
 ---
 
 ## Contributors
